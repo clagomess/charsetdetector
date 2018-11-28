@@ -6,7 +6,13 @@
 
     <groupId>com.github.clagomess</groupId>
     <artifactId>charsetdetector</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
+    <packaging>pom</packaging>
+
+    <scm>
+        <connection>https://github.com/clagomess/charsetdetector</connection>
+        <url>scm:git:git@github.com:clagomess/charsetdetector.git</url>
+    </scm>
 
     <dependencies>
         <dependency>
